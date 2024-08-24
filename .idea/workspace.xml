@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="" />
+    <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Pygame/c_how_to_initialize_all_the_imported_modules_in_py_games.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +37,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.c_data_frames.executor": "Run",
+    "Python.c_how_to_initialize_all_the_imported_modules_in_py_games.executor": "Run",
     "Python.creating_arrays.executor": "Run",
     "Python.getting_started.executor": "Run",
     "Python.hello_world.executor": "Run",
