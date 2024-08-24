@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Mathplotlib/markers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +41,7 @@
     "Python.getting_started.executor": "Run",
     "Python.hello_world.executor": "Run",
     "Python.introduction.executor": "Run",
+    "Python.markers.executor": "Run",
     "Python.plotting.executor": "Run",
     "Python.pyplot.executor": "Run",
     "Python.series.executor": "Run",
