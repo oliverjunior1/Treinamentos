@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Pygame/c_how_to_initialize_all_the_imported_modules_in_py_games.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/c_widgets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkinter/hello_world.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkinter/a_hello_world.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkinter/window.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkinter/b_window.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +40,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.c_data_frames.executor": "Run",
     "Python.c_how_to_initialize_all_the_imported_modules_in_py_games.executor": "Run",
+    "Python.c_widgets.executor": "Run",
     "Python.creating_arrays.executor": "Run",
     "Python.getting_started.executor": "Run",
     "Python.hello_world.executor": "Run",
