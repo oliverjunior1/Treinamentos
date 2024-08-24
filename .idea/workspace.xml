@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Pandas/getting_started.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pandas/a_getting_started.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/series.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pandas/b_series.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pandas/c_data_frames.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.c_data_frames.executor": "Run",
     "Python.creating_arrays.executor": "Run",
     "Python.getting_started.executor": "Run",
     "Python.hello_world.executor": "Run",
