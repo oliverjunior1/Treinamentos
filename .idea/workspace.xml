@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Mathplotlib/e_line.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tkinter/e_command_binding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pygame/e_resizing_window.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +47,7 @@
     "Python.d_window.executor": "Run",
     "Python.e_analize_data.executor": "Run",
     "Python.e_command_binding.executor": "Run",
+    "Python.e_resizing_window.executor": "Run",
     "Python.getting_started.executor": "Run",
     "Python.hello_world.executor": "Run",
     "Python.introduction.executor": "Run",
