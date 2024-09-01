@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Mathplotlib/f_labels.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/f_event_binding.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +48,7 @@
     "Python.e_command_binding.executor": "Run",
     "Python.e_resizing_window.executor": "Run",
     "Python.f_cleaning_empty_cells.executor": "Run",
+    "Python.f_event_binding.executor": "Run",
     "Python.f_labels.executor": "Run",
     "Python.getting_started.executor": "Run",
     "Python.hello_world.executor": "Run",
