@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Mathplotlib/g_grid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/data1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/g_cleaning_wrong_format.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/g_label.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +52,7 @@
     "Python.f_how_to_change_screen_background_color.executor": "Run",
     "Python.f_labels.executor": "Run",
     "Python.g_cleaning_wrong_format.executor": "Run",
+    "Python.g_grid.executor": "Run",
     "Python.getting_started.executor": "Run",
     "Python.hello_world.executor": "Run",
     "Python.introduction.executor": "Run",
