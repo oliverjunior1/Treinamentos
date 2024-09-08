@@ -4,11 +4,18 @@
 #
 # print(a)
 #--------------dataframes----------------
+# import pandas as pd
+#
+# data = pd.DataFrame({
+#     'calories':[420,380,390],
+#     'duration':[50,40,45]
+# })
+#
+# print(data)
+#---------------read-csv------------------
 import pandas as pd
 
-data = pd.DataFrame({
-    'calories':[420,380,390],
-    'duration':[50,40,45]
-})
+pd.options.display.max_rows = 9999
+df = pd.read_csv('Pokemon.csv')
 
-print(data)
+print(df)
