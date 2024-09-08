@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Tkinter/k_grid.py" afterDir="false" />
-    </list>
+    <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +66,7 @@
     "Python.j_bars.executor": "Run",
     "Python.j_pack.executor": "Run",
     "Python.j_surface.executor": "Run",
+    "Python.k_grid.executor": "Run",
     "Python.k_time.executor": "Run",
     "Python.line.executor": "Run",
     "Python.markers.executor": "Run",
