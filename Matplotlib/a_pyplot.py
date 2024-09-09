@@ -7,3 +7,4 @@ y = np.array([0,250])
 plt.plot(x, y)
 
 plt.show()
+
