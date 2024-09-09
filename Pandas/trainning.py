@@ -13,9 +13,17 @@
 #
 # print(data)
 #---------------read-csv------------------
+# import pandas as pd
+#
+# pd.options.display.max_rows = 9999
+# df = pd.read_csv('Pokemon.csv')
+#
+# print(df)
+#----------------plotting------------------
 import pandas as pd
+import matplotlib.pyplot as plt
 
-pd.options.display.max_rows = 9999
 df = pd.read_csv('Pokemon.csv')
 
-print(df)
+df.plot()
+plt.show()
