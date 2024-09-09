@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Matplotlib/l_pie_charts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/i_histograms.py" beforeDir="false" afterPath="$PROJECT_DIR$/Matplotlib/k_histograms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pygame/l_drawing_objects_and_shapes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/l_place.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +72,9 @@
     "Python.j_surface.executor": "Run",
     "Python.k_grid.executor": "Run",
     "Python.k_time.executor": "Run",
+    "Python.l_drawing_objects_and_shapes.executor": "Run",
     "Python.l_pie_charts.executor": "Run",
+    "Python.l_place.executor": "Run",
     "Python.line.executor": "Run",
     "Python.markers.executor": "Run",
     "Python.plotting.executor": "Run",
@@ -93,6 +96,7 @@
       <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Pandas" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Tkinter" />
       <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Pandas" />
       <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Numpy" />
     </key>
