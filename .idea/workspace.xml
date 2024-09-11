@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="" />
+    <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Tkinter/m_frame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +75,9 @@
     "Python.l_pie_charts.executor": "Run",
     "Python.l_place.executor": "Run",
     "Python.line.executor": "Run",
+    "Python.m_frame.executor": "Run",
     "Python.markers.executor": "Run",
+    "Python.n_how_to_draw_a_rectangle.executor": "Run",
     "Python.plotting.executor": "Run",
     "Python.pyplot.executor": "Run",
     "Python.series.executor": "Run",
