@@ -19,11 +19,17 @@
 # df = pd.read_csv('Pokemon.csv')
 #
 # print(df)
-#----------------plotting------------------
+#----------------pandasPlusMatplotlib------------------
+# import pandas as pd
+# import matplotlib.pyplot as plt
+#
+# df = pd.read_csv('Pokemon.csv')
+#
+# df.plot()
+# plt.show()
+#----------------DataFrames---------------------------
 import pandas as pd
-import matplotlib.pyplot as plt
 
-df = pd.read_csv('Pokemon.csv')
+df = pd.read_csv('data.csv')
 
-df.plot()
-plt.show()
+print(df.head(10))
