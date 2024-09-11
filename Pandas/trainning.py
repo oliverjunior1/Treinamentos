@@ -28,8 +28,14 @@
 # df.plot()
 # plt.show()
 #----------------DataFrames---------------------------
+# import pandas as pd
+#
+# df = pd.read_csv('data.csv')
+#
+# print(df.head(10))
+#----------------read_csv-----------------------------
 import pandas as pd
 
 df = pd.read_csv('data.csv')
 
-print(df.head(10))
+print(df.to_string())
