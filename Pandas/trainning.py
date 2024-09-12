@@ -34,8 +34,14 @@
 #
 # print(df.head(10))
 #----------------read_csv-----------------------------
+# import pandas as pd
+#
+# df = pd.read_csv('data.csv')
+#
+# print(df.to_string())
+#------------------analize_data-----------------------
 import pandas as pd
 
 df = pd.read_csv('data.csv')
 
-print(df.to_string())
+print(df.head(10))
