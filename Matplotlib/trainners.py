@@ -19,10 +19,18 @@
 # plt.show()
 #########################################
 #-----------------markers-------------------
+# import matplotlib.pyplot as plt
+# import numpy as np
+#
+# y = np.array([3,8,1,10])
+#
+# plt.plot(y, marker = 'o')
+# plt.show()
+#------------------Line---------------------
 import matplotlib.pyplot as plt
 import numpy as np
 
-y = np.array([3,8,1,10])
+y = np.array([3,8,1,18])
 
-plt.plot(y, marker = 'o')
+plt.plot(y, linestyle = 'dotted')
 plt.show()
