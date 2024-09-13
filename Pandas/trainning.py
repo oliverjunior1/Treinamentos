@@ -40,8 +40,17 @@
 #
 # print(df.to_string())
 #------------------analize_data-----------------------
+# import pandas as pd
+#
+# df = pd.read_csv('data.csv')
+#
+# print(df.head(10))
+#------------------plotting---------------------------
 import pandas as pd
+import matplotlib.pyplot as plt
 
-df = pd.read_csv('data.csv')
+df = pd.read_csv('Pokemon.csv')
 
-print(df.head(10))
+df.plot()
+
+plt.show()
