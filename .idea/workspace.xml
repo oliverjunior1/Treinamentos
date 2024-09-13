@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Tkinter/p_scrollbar.py" afterDir="false" />
-    </list>
+    <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,6 +78,7 @@
     "Python.o_how_to_draw_a_rectangle_with_rounded_corner.executor": "Run",
     "Python.o_text.executor": "Run",
     "Python.p_how_to_draw_a_rectangle_with_rounded_corner.executor": "Run",
+    "Python.p_scrollbar.executor": "Run",
     "Python.plotting.executor": "Run",
     "Python.pyplot.executor": "Run",
     "Python.series.executor": "Run",
