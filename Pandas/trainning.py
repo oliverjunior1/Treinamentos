@@ -1,8 +1,17 @@
+#-------------Series---------------------
 # import pandas as pd
 #
 # a = pd.Series([1,7,2])
 #
 # print(a)
+#----------------------------------------
+import pandas as pd
+
+a = [1, 7, 2]
+
+myvar = pd.Series(a, index=['x', 'y', 'z'])
+
+print(myvar)
 #--------------dataframes----------------
 # import pandas as pd
 #
@@ -46,11 +55,11 @@
 #
 # print(df.head(10))
 #------------------plotting---------------------------
-import pandas as pd
-import matplotlib.pyplot as plt
-
-df = pd.read_csv('Pokemon.csv')
-
-df.plot()
-
-plt.show()
+# import pandas as pd
+# import matplotlib.pyplot as plt
+#
+# df = pd.read_csv('Pokemon.csv')
+#
+# df.plot()
+#
+# plt.show()
