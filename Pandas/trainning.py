@@ -72,3 +72,11 @@
 # df.plot()
 #
 # plt.show()
+#-----------------------pandas---------------------------
+import pandas as pd
+import matplotlib.pyplot as plt
+
+x = pd.DataFrame([1,5,7,8])
+data = plt.plot(x)
+
+plt.show()
