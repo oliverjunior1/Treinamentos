@@ -73,10 +73,20 @@
 #
 # plt.show()
 #-----------------------pandas---------------------------
-import pandas as pd
+# import pandas as pd
+# import matplotlib.pyplot as plt
+#
+# x = pd.DataFrame([1,5,7,8])
+# data = plt.plot(x)
+#
+# plt.show()
+#--------------------------------------------------------
 import matplotlib.pyplot as plt
+import numpy as np
 
-x = pd.DataFrame([1,5,7,8])
-data = plt.plot(x)
+x = np.array([1,7,8])
+y = np.array([3,8,4])
+
+plt.plot(x, y)
 
 plt.show()
