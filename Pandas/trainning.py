@@ -84,8 +84,8 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-x = np.array([1,7,8])
-y = np.array([3,8,4])
+x = np.array([1,7,8,9])
+y = np.array([3,8,4,10])
 
 plt.plot(x, y)
 
