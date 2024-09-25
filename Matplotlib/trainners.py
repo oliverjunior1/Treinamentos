@@ -91,13 +91,15 @@
 # plt.scatter(x, y)
 # plt.show()
 #-----------------------Other_trainer-----------------------------------
+import matplotlib.pyplot as plt
 import pandas as pd
 
-a = [1,7,2]
+x = pd.Series([10,20,30,40])
+y = pd.Series([1,7,10,8])
 
-myvar = pd.Series(a)
+plt.plot(x, y)
 
-print(myvar)
+plt.show()
 
 
 
