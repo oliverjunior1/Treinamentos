@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="" />
+    <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Matplotlib/Bekzod_Ruzmetov/add_line2d_artist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.add_line2d_artist.executor": "Run",
     "Python.and_&_or.executor": "Run",
     "Python.c_data_frames.executor": "Run",
     "Python.c_how_to_initialize_all_the_imported_modules_in_py_games.executor": "Run",
@@ -107,6 +111,7 @@
       <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Pandas" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Matplotlib\w3_schools" />
       <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Python\Jose_Salvatierra_and_Rob_Percival" />
       <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Tkinter" />
       <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Pandas" />
