@@ -5,30 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Pygame/Penny_de_Byl/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Jose_Salvatierra_and_Rob_Percival/Lists.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pygame/a_introduction.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pygame/GeekToGeek/a_introduction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pygame/b_getting_started.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pygame/GeekToGeek/b_getting_started.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pygame/c_how_to_initialize_all_the_imported_modules_in_py_games.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pygame/GeekToGeek/c_how_to_initialize_all_the_imported_modules_in_py_games.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pygame/char.png" beforeDir="false" afterPath="$PROJECT_DIR$/Pygame/GeekToGeek/char.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pygame/d_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pygame/GeekToGeek/d_window.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pygame/e_resizing_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pygame/GeekToGeek/e_resizing_window.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pygame/f_how_to_change_screen_background_color.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pygame/GeekToGeek/f_how_to_change_screen_background_color.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pygame/g_how_to_change_the_name_of_a_pygame_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pygame/GeekToGeek/g_how_to_change_the_name_of_a_pygame_window.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pygame/gfglogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Pygame/GeekToGeek/gfglogo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pygame/h_how_to_set_up_the_game_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pygame/GeekToGeek/h_how_to_set_up_the_game_loop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pygame/i_how_to_add_custom_events.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pygame/GeekToGeek/i_how_to_add_custom_events.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pygame/i_how_to_change_the_pygame_icon.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pygame/GeekToGeek/i_how_to_change_the_pygame_icon.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pygame/j_surface.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pygame/GeekToGeek/j_surface.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pygame/k_time.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pygame/GeekToGeek/k_time.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pygame/l_drawing_objects_and_shapes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pygame/GeekToGeek/l_drawing_objects_and_shapes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pygame/m_drawing_different_shapes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pygame/GeekToGeek/m_drawing_different_shapes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pygame/n_how_to_draw_a_rectangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pygame/GeekToGeek/n_how_to_draw_a_rectangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pygame/o_how_to_draw_a_rectangle_with_rounded_corner.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pygame/GeekToGeek/o_how_to_draw_a_rectangle_with_rounded_corner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pygame/p_how_to_draw_a_rectangle_with_rounded_corner.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pygame/GeekToGeek/p_how_to_draw_a_rectangle_with_rounded_corner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pygame/q_event_handling.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pygame/GeekToGeek/q_event_handling.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pygame/r_how_to_add_custom_events.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pygame/GeekToGeek/r_how_to_add_custom_events.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pygame/s_input_handling.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pygame/GeekToGeek/s_input_handling.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.Lists.executor": "Run",
     "Python.add_line2d_artist.executor": "Run",
     "Python.and_&_or.executor": "Run",
     "Python.c_data_frames.executor": "Run",
