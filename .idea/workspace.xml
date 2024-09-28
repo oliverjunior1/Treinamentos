@@ -5,8 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python/Jose_Salvatierra_and_Rob_Percival/Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/Volkan_Atis/creating_your_first_gui_application.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkinter/a_hello_world.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkinter/PythonTutorial/a_hello_world.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkinter/b_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkinter/PythonTutorial/b_window.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkinter/c_widgets.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkinter/PythonTutorial/c_widgets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkinter/d_setting_widget_options.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkinter/PythonTutorial/d_setting_widget_options.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkinter/e_command_binding.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkinter/PythonTutorial/e_command_binding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkinter/f_event_binding.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkinter/PythonTutorial/f_event_binding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkinter/g_label.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkinter/PythonTutorial/g_label.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkinter/h_button.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkinter/PythonTutorial/h_button.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkinter/i_entry.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkinter/PythonTutorial/i_entry.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkinter/j_pack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkinter/PythonTutorial/j_pack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkinter/k_grid.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkinter/PythonTutorial/k_grid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkinter/l_place.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkinter/PythonTutorial/l_place.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkinter/m_frame.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkinter/PythonTutorial/m_frame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkinter/o_check_box.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkinter/PythonTutorial/o_check_box.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkinter/o_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkinter/PythonTutorial/o_text.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkinter/p_scrollbar.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkinter/PythonTutorial/p_scrollbar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkinter/q_scrolled_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkinter/PythonTutorial/q_scrolled_text.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkinter/r_separator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkinter/PythonTutorial/r_separator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,11 +131,11 @@
       <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Pandas" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Tkinter\PythonTutorial" />
       <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Pygame\GeekToGeek" />
       <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Pandas\w3_schools" />
       <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Matplotlib\w3_schools" />
       <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Python\Jose_Salvatierra_and_Rob_Percival" />
-      <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Tkinter" />
     </key>
   </component>
   <component name="RunManager">
@@ -204,7 +222,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tkinter/d_setting_widget_options.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Olive\PycharmProjects\Treinamentos\Tkinter\PythonTutorial\d_setting_widget_options.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
