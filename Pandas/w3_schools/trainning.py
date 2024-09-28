@@ -90,10 +90,16 @@
 #
 # plt.show()
 #----------------------------------------------------
+# import pandas as pd
+#
+# x = pd.array([1,7,9,6])
+#
+# y= pd.Series(x)
+#
+# print(y)
+#-----------------------------------------------------
 import pandas as pd
 
-x = pd.array([1,7,9,6])
+x = pd.Series(pd.array([1,2,5,7,10]))
 
-y= pd.Series(x)
-
-print(y)
+print(x)
