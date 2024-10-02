@@ -5,34 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Pygame/Penny_de_Byl/main_game_loop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/Bekzod_Ruzmetov/add_line2d_artist.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_analisys/Matplotlib/Bekzod_Ruzmetov/add_line2d_artist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/w3_schools/a_pyplot.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_analisys/Matplotlib/w3_schools/a_pyplot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/w3_schools/b_plotting.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_analisys/Matplotlib/w3_schools/b_plotting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/w3_schools/c_markers.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_analisys/Matplotlib/w3_schools/c_markers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/w3_schools/d_line.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_analisys/Matplotlib/w3_schools/d_line.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/w3_schools/e_line.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_analisys/Matplotlib/w3_schools/e_line.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/w3_schools/f_labels.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_analisys/Matplotlib/w3_schools/f_labels.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/w3_schools/g_grid.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_analisys/Matplotlib/w3_schools/g_grid.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/w3_schools/h_subplot.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_analisys/Matplotlib/w3_schools/h_subplot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/w3_schools/i_scatter.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_analisys/Matplotlib/w3_schools/i_scatter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/w3_schools/j_bars.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_analisys/Matplotlib/w3_schools/j_bars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/w3_schools/k_histograms.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_analisys/Matplotlib/w3_schools/k_histograms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/w3_schools/l_pie_charts.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_analisys/Matplotlib/w3_schools/l_pie_charts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/w3_schools/trainners.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_analisys/Matplotlib/w3_schools/trainners.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/w3_schools/Pokemon.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data_analisys/Pandas/w3_schools/Pokemon.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/w3_schools/a_getting_started.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_analisys/Pandas/w3_schools/a_getting_started.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/w3_schools/b_series.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_analisys/Pandas/w3_schools/b_series.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/w3_schools/c_data_frames.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_analisys/Pandas/w3_schools/c_data_frames.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/w3_schools/d_read_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_analisys/Pandas/w3_schools/d_read_csv.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/w3_schools/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data_analisys/Pandas/w3_schools/data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/w3_schools/data1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data_analisys/Pandas/w3_schools/data1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/w3_schools/e_analize_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_analisys/Pandas/w3_schools/e_analize_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/w3_schools/f_cleaning_empty_cells.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_analisys/Pandas/w3_schools/f_cleaning_empty_cells.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/w3_schools/g_cleaning_wrong_format.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_analisys/Pandas/w3_schools/g_cleaning_wrong_format.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/w3_schools/h_plotting.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_analisys/Pandas/w3_schools/h_plotting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/w3_schools/trainning.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_analisys/Pandas/w3_schools/trainning.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pygame/Penny_de_Byl/main_game_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pygame/Penny_de_Byl/main_game_loop.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
