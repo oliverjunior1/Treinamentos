@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="" />
+    <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,7 +120,7 @@
       <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Python\Jose_Salvatierra_and_Rob_Percival" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.d_line">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Treinamentos" />
       <option name="ENV_FILES" value="" />
