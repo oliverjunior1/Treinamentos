@@ -79,6 +79,7 @@
     "Python.l_drawing_objects_and_shapes.executor": "Run",
     "Python.l_pie_charts.executor": "Run",
     "Python.l_place.executor": "Run",
+    "Python.lambda_.executor": "Run",
     "Python.line.executor": "Run",
     "Python.m_frame.executor": "Run",
     "Python.main_game_loop.executor": "Run",
