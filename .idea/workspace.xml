@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Python/w3/a_class_.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/treinamentos/a_class_.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/w3/b_lambda_.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/treinamentos/b_lambda_.py" afterDir="false" />
-    </list>
+    <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,11 +125,11 @@
       <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Pandas" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Python\treinamentos" />
       <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Pygame\Penny_de_Byl\Images" />
       <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Pygame\Penny_de_Byl\Part I" />
       <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Pygame\Penny_de_Byl" />
       <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\data_analisys" />
-      <recent name="C:\Users\Olive\PycharmProjects\Treinamentos" />
     </key>
   </component>
   <component name="RunManager">
