@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Python/w3/class_.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/w3/a_class_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/w3/a_class_.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/treinamentos/a_class_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/w3/b_lambda_.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/treinamentos/b_lambda_.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +41,7 @@
     "Python.a_class_.executor": "Run",
     "Python.add_line2d_artist.executor": "Run",
     "Python.and_&_or.executor": "Run",
+    "Python.b_lambda_.executor": "Run",
     "Python.c_data_frames.executor": "Run",
     "Python.c_how_to_initialize_all_the_imported_modules_in_py_games.executor": "Run",
     "Python.c_widgets.executor": "Run",
