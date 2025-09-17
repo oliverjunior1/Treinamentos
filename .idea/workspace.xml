@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="" />
+    <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Python/treinamentos/a_exercicios_de_lambda/a_prime_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +39,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.Lists.executor": "Run",
     "Python.a_class_.executor": "Run",
+    "Python.a_prime_numbers.executor": "Run",
     "Python.add_line2d_artist.executor": "Run",
     "Python.and_&_or.executor": "Run",
     "Python.b_lambda_.executor": "Run",
