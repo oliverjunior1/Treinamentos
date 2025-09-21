@@ -9,12 +9,14 @@ Crie uma classe chamada  que represente um item em um estoque. Cada produto deve
 3. 	Um método  que diminui a quantidade, mas não permite que fique negativo.
 4. 	Um método  que retorna o valor total em estoque (preço × quantidade)."""
 
-class estoque:
+class Loja:
     def __init__(self, nome, quantidade, estoque):
         self.nome = nome
         self.quantidade= quantidade
         self.estoque = estoque
 
     def __str__(self):
-        return f"O produto é {self.nome}. Ele tem em estoque: {self.estoque}"
+        return (f"O produto é {self.nome}. Ele tem em estoque: {self.estoque}. Ele tem a quantidade de {self.quantidade} em estoque.")
 
+loja = Loja("Microcomputador", 12, True)
+print(loja)
