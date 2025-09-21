@@ -1,61 +1,54 @@
-# 🐶 Exercício: Classe Pet
-# Crie uma classe chamada Pet que represente um animal de estimação. Cada pet deve ter:
-#
-# 🧰 Requisitos:
 class Pet:
-    def __init__(self,nome, especie, idade, peso):
+    def __init__(self, nome, especie, idade, peso):
         self.nome = nome
-        self.especie = especie
+        self.especie = especie.lower()
         self.idade = idade
         self.peso = peso
 
-# 1. 	Um método  que imprime todos os dados do pet.
     def exibir_info(self):
-        return (f"O animal {self.especie}\n"
-                f"tem nome de : {self.nome}\n"
-                f"tem a idade de: {self.idade}\n"
-                f"e tem o peso de: {self.peso}.")
+        print(f"\n🐾 Informações do Pet:")
+        print(f"Nome: {self.nome}")
+        print(f"Espécie: {self.especie}")
+        print(f"Idade: {self.idade} anos")
+        print(f"Peso: {self.peso:.2f} kg")
 
-# 2. 	Um método  que aumenta o peso do pet.
     def alimentar(self):
-        peso_comida = float(input("Qual o peso da comida em kilos:"))
-        self.peso+= peso_comida
-        return self.peso
+        peso_comida = float(input("Qual o peso da comida em kg? "))
+        self.peso += peso_comida
+        print(f"{self.nome} foi alimentado. Novo peso: {self.peso:.2f} kg")
 
-# 3. 	Um método  que aumenta a idade em 1 ano.
     def aumentar_idade(self):
         self.idade += 1
-        return self.idade
-
-# 4. 	Um método  que avalia a saúde do pet com base
-# no peso e espécie (ex: se for um gato com menos de
-# 2kg, está abaixo do peso).
+        print(f"{self.nome} agora tem {self.idade} anos.")
 
     def saude(self):
-        if self.especie=="gato" or "cachorro" or "coelho":
-            if self.peso<2:
-                return (f"O {self.especie} não está saudável,\n"
-                        f"dê mais comida a ele.")
-            elif self.peso>10:
-                return (f"O {self.especie} não está saudável\n "
-                        f"reduza a comida que ele está comendo.")
-            else:
-                return f"O animal {self.especie} está saudavel."
-        elif self.especie=="cavalo" or "vaca":
-            if self.peso<10:
-                return (f"O {self.especie} não está saudável."
-                        f"dê mais comida a ele.")
-            elif self.peso>40:
-                return (f"O {self.especie} naõ está saudável."
-                        f"reduza a comida dele.")
-            else:
-                return ("O animal está saudável.2")
+        faixas = {
+            "gato": (2, 10),
+            "cachorro": (2, 10),
+            "coelho": (2, 10),
+            "cavalo": (10, 40),
+            "vaca": (10, 40)
+        }
 
+        if self.especie in faixas:
+            minimo, maximo = faixas[self.especie]
+            if self.peso < minimo:
+                print(f"{self.nome} está abaixo do peso. 🥺")
+            elif self.peso > maximo:
+                print(f"{self.nome} está acima do peso. 🐷")
+            else:
+                print(f"{self.nome} está com peso saudável. ✅")
         else:
-            return "Não há dados para este animal."
+            print("Não há dados suficientes para avaliar a saúde dessa espécie.")
 
-gato = Pet("fofa", "gato", 3, 3)
+cachorro = Pet("lassie", 'cachorro', 5,1.5)
+cachorro.saude()
+cachorro.alimentar()
+cachorro.saude()
 
-print(gato.saude())
-cavalo = Pet("pangaré", "cavalo", 10,8)
-print(cavalo.saude())
+cavalo = Pet("mulambo", "cavalo", 14,9)
+cavalo.saude()
+cavalo.exibir_info()
+cavalo.alimentar()
+cavalo.aumentar_idade()
+cavalo.saude()
