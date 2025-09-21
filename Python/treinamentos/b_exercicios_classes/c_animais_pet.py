@@ -57,5 +57,5 @@ class Pet:
 gato = Pet("fofa", "gato", 3, 3)
 
 print(gato.saude())
-cavalo = Pet("pangaré", "cavalo", 10,7)
+cavalo = Pet("pangaré", "cavalo", 10,8)
 print(cavalo.saude())
