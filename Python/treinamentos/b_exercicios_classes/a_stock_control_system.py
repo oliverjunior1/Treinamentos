@@ -10,5 +10,11 @@ Crie uma classe chamada  que represente um item em um estoque. Cada produto deve
 4. 	Um método  que retorna o valor total em estoque (preço × quantidade)."""
 
 class estoque:
-    def __init__(self, ):
+    def __init__(self, nome, quantidade, estoque):
+        self.nome = nome
+        self.quantidade= quantidade
+        self.estoque = estoque
+
+    def __str__(self):
+        return f"O produto é {self.nome}. Ele tem em estoque: {self.estoque}"
 
