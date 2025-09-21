@@ -28,3 +28,4 @@ produto = Produto("Microcomputador", 15.99, 25)
 
 print(f"O produto {produto.nome}, custa {produto.preco} e tem {produto.quantidade}")
 
+
