@@ -1,22 +1,30 @@
-"""🧠 Exercício: Sistema de Controle de Estoque
-Crie uma classe chamada  que represente um item em um estoque. Cada produto deve ter:
-• 	 (string)
-• 	 (float)
-• 	 (int)
-🧰 Requisitos:
-1. 	Um método  que imprime as informações do produto.
-2. 	Um método  que aumenta a quantidade.
-3. 	Um método  que diminui a quantidade, mas não permite que fique negativo.
-4. 	Um método  que retorna o valor total em estoque (preço × quantidade)."""
-
-class Loja:
-    def __init__(self, nome, quantidade, estoque):
+class Produto:
+    def __init__(self, nome: str, preco: float, quantidade: int):
         self.nome = nome
-        self.quantidade= quantidade
-        self.estoque = estoque
+        self.preco = preco
+        self.quantidade = quantidade
 
-    def __str__(self):
-        return (f"O produto é {self.nome}. Ele tem em estoque: {self.estoque}. Ele tem a quantidade de {self.quantidade} em estoque.")
+    def imprimir_informacoes(self):
+        print(f"Produto: {self.nome}")
+        print(f"Preço unitário: R${self.preco:.2f}")
+        print(f"Quantidade em estoque: {self.quantidade}")
 
-loja = Loja("Microcomputador", 12, True)
-print(loja)
+    def adicionar_estoque(self, quantidade_adicional: int):
+        if quantidade_adicional > 0:
+            self.quantidade += quantidade_adicional
+        else:
+            print("Quantidade inválida para adicionar.")
+
+    def remover_estoque(self, quantidade_removida: int):
+        if 0 < quantidade_removida <= self.quantidade:
+            self.quantidade -= quantidade_removida
+        else:
+            print("Não é possível remover essa quantidade do estoque.")
+
+    def valor_total_estoque(self) -> float:
+        return self.preco * self.quantidade
+
+produto = Produto("Microcomputador", 15.99, 25)
+
+print(f"O produto {produto.nome}, custa {produto.preco} e tem {produto.quantidade}")
+
