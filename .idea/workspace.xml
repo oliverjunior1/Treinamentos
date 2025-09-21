@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python/treinamentos/b_exercicios_classes/b_conta_bancaria.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/treinamentos/b_exercicios_classes/c_animais_pet.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +46,7 @@
     "Python.b_change_temperature.executor": "Run",
     "Python.b_conta_bancaria.executor": "Run",
     "Python.b_lambda_.executor": "Run",
+    "Python.c_animais_pet.executor": "Run",
     "Python.c_data_frames.executor": "Run",
     "Python.c_how_to_initialize_all_the_imported_modules_in_py_games.executor": "Run",
     "Python.c_widgets.executor": "Run",
