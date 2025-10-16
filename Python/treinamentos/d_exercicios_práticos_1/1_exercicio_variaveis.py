@@ -7,4 +7,5 @@ estuda_python = True
 resposta = 'sim' if estuda_python==True else 'não'
 
 
-print(f"O nome é {nome}, a altura é {altura} e ele estuda python: {resposta}.")
+print(f"O nome é {nome}, a altura é {altura} e ele estuda python: {resposta}."
+      )
