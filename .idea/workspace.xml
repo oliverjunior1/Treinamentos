@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/treinamentos/3_mega_e_loto.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/treinamentos/3_mega_e_loto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/treinamentos/4_list_tuple_dict_set_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/treinamentos/4_list_tuple_dict_set_array.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +40,7 @@
     "Python.2_idade_em_meses.executor": "Run",
     "Python.2_lambda_.executor": "Run",
     "Python.3_mega_e_loto.executor": "Run",
+    "Python.4_list_tuple_dict_set_array.executor": "Run",
     "Python.Lists.executor": "Run",
     "Python.a_class_.executor": "Run",
     "Python.a_introduction.executor": "Run",
