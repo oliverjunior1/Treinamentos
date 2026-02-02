@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python/treinamentos/8_args_and_kwargs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/treinamentos/9_match.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +47,7 @@
     "Python.6_zip.executor": "Run",
     "Python.7_enumerate.executor": "Run",
     "Python.8_args_and_kwargs.executor": "Run",
+    "Python.9_match.executor": "Run",
     "Python.Lists.executor": "Run",
     "Python.a_class_.executor": "Run",
     "Python.a_introduction.executor": "Run",
