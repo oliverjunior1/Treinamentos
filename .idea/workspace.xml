@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python/treinamentos/5_archive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/treinamentos/6_duas_listas_em_um_dicionario.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +43,7 @@
     "Python.3_mega_e_loto.executor": "Run",
     "Python.4_list_tuple_dict_set_array.executor": "Run",
     "Python.5_archive.executor": "Run",
+    "Python.6_duas_listas_em_um_dicionario.executor": "Run",
     "Python.Lists.executor": "Run",
     "Python.a_class_.executor": "Run",
     "Python.a_introduction.executor": "Run",
@@ -132,12 +134,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Olive/PycharmProjects/Treinamentos/Pygame",
+    "last_opened_file_path": "C:/Users/Olive/PycharmProjects/Treinamentos/Python/treinamentos",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Python\treinamentos" />
       <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Pygame" />
       <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Pandas" />
     </key>
