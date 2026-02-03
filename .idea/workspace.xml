@@ -36,6 +36,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.10_decorations.executor": "Run",
     "Python.11_decorations_with_arguments.executor": "Run",
+    "Python.12_try_except.executor": "Run",
     "Python.1_exercicio_variaveis.executor": "Run",
     "Python.2_idade_em_meses.executor": "Run",
     "Python.2_lambda_.executor": "Run",
