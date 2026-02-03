@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python/treinamentos/7_simple_if_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/treinamentos/10_lambda_using_filter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +37,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.10_decorations.executor": "Run",
+    "Python.10_lambda_using_filter.executor": "Run",
     "Python.11_decorations_with_arguments.executor": "Run",
     "Python.12_try_except.executor": "Run",
     "Python.1_exercicio_variaveis.executor": "Run",
