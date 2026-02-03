@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Python/treinamentos/4_list_tuple_dict_set_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/treinamentos/3_list_tuple_dict_set_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/treinamentos/7_simple_if_else.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,11 +43,13 @@
     "Python.2_idade_em_meses.executor": "Run",
     "Python.2_lambda_.executor": "Run",
     "Python.3_mega_e_loto.executor": "Run",
+    "Python.4_list_comprehension.executor": "Run",
     "Python.4_list_tuple_dict_set_array.executor": "Run",
     "Python.5_archive.executor": "Run",
     "Python.6_duas_listas_em_um_dicionario.executor": "Run",
     "Python.6_zip.executor": "Run",
     "Python.7_enumerate.executor": "Run",
+    "Python.7_simple_if_else.executor": "Run",
     "Python.8_args_and_kwargs.executor": "Run",
     "Python.9_match.executor": "Run",
     "Python.Lists.executor": "Run",
