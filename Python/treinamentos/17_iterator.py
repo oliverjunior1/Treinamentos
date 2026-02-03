@@ -1,5 +1,7 @@
-try:
-    x = 10/0
-    print(x)
-except:
-    print("You can't divide a number to zero.")
+numeros = [10, 20, 30]
+
+it = iter(numeros)
+
+print(next(it))
+print(next(it))
+print(next(it))
