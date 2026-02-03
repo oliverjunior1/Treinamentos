@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python/treinamentos/12_dict_comprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/treinamentos/15_time_delta.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +39,7 @@
     "Python.10_decorations.executor": "Run",
     "Python.10_lambda_using_filter.executor": "Run",
     "Python.11_decorations_with_arguments.executor": "Run",
+    "Python.12_dict_comprehension.executor": "Run",
     "Python.12_try_except.executor": "Run",
     "Python.1_exercicio_variaveis.executor": "Run",
     "Python.2_idade_em_meses.executor": "Run",
