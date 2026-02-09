@@ -1,12 +1,13 @@
 def fun1(x):
     def fun2():
-        print("##################")
+        print("######################")
         x()
-        print("##################")
+        print("######################")
     return fun2
-
 @fun1
 def greetings():
-    print("Jesus is the light of the world!")
+    print("Jesus is love.")
 
+greetings()
+greetings()
 greetings()
