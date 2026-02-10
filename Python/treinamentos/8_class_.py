@@ -4,10 +4,10 @@ class Family:
         self.age = age
 
     def __str__(self):
-        return f"The name is {self.name} and the age is {self.age} years old."
+        return f"The name is {self.name} and has {self.age} years old."
 
-son = Family('Joao', 12)
-daughter = Family('Mariane', 4)
+son = Family("Joao", 12)
+daughter = Family("Mariane", 4)
 
 print(son)
 print(daughter)
