@@ -1,12 +1,12 @@
 def fun1(x):
     def fun2(*args):
-        print("##################")
+        print("#############################")
         x(*args)
-        print("##################")
+        print("#############################")
     return fun2
 
-@fun1
-def greetings(name):
-    print(f"Hello {name}")
+@ fun1
+def greetings(*args):
+    print(f"Hello {args}")
 
 greetings("Joaquim")
