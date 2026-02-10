@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Python/treinamentos/11_decorations_with_arguments.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/treinamentos/11_decorations_with_arguments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/treinamentos/11_match_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/treinamentos/11_match_case.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +39,7 @@
     "Python.10_decorations.executor": "Run",
     "Python.10_lambda_using_filter.executor": "Run",
     "Python.11_decorations_with_arguments.executor": "Run",
+    "Python.11_match_case.executor": "Run",
     "Python.12_dict_comprehension.executor": "Run",
     "Python.12_try_except.executor": "Run",
     "Python.18_yield.executor": "Run",
