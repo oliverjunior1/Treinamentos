@@ -1,3 +1,3 @@
-x = {x: x**2 for x in range(1,6)}
+x = {x: x**2 for x in range(6)}
 
 print(x)
