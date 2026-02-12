@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="" />
+    <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Matplotlib/4_plotting_without_xpoint.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,8 +56,10 @@
     "Python.2_idade_em_meses.executor": "Run",
     "Python.2_lambda_.executor": "Run",
     "Python.2_mega_e_loto.executor": "Run",
+    "Python.2_plotting.executor": "Run",
     "Python.3_list_tuple_dict_set_array.executor": "Run",
     "Python.3_mega_e_loto.executor": "Run",
+    "Python.3_plotting_with_point.executor": "Run",
     "Python.4_list_comprehension.executor": "Run",
     "Python.4_list_tuple_dict_set_array.executor": "Run",
     "Python.5_archive.executor": "Run",
@@ -158,7 +162,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Olive/PycharmProjects/Treinamentos/Python/treinamentos",
+    "last_opened_file_path": "C:/Users/Olive/PycharmProjects/Treinamentos/Matplotlib",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
