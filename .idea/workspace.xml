@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/data_analisys/Matplotlib/w3_schools/b_plotting.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_analisys/Matplotlib/w3_schools/b_plotting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_analisys/Matplotlib/w3_schools/c_markers.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_analisys/Matplotlib/w3_schools/c_markers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +95,7 @@
     "Python.c_animais_pet.executor": "Run",
     "Python.c_data_frames.executor": "Run",
     "Python.c_how_to_initialize_all_the_imported_modules_in_py_games.executor": "Run",
+    "Python.c_markers.executor": "Run",
     "Python.c_widgets.executor": "Run",
     "Python.class_.executor": "Run",
     "Python.creating_arrays.executor": "Run",
