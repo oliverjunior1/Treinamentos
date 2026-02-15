@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/treinamentos/22_duas_listas_em_um_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/treinamentos/22_duas_listas_em_um_dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkinter/PythonTutorial/a_hello_world.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkinter/PythonTutorial/a_hello_world.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +55,7 @@
     "Python.20_open_document_and_edit.executor": "Run",
     "Python.21_transform_txt_to_dict.executor": "Run",
     "Python.22_duas_listas_em_um_dict.executor": "Run",
+    "Python.23_enumerate.executor": "Run",
     "Python.24_txt_in_list.executor": "Run",
     "Python.2_idade_em_meses.executor": "Run",
     "Python.2_lambda_.executor": "Run",
