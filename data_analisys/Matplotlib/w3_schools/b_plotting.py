@@ -1,38 +1,8 @@
-# import matplotlib.pyplot as plt
-# import numpy as np
-#
-# x = np.array([1,8])
-# y = np.array([3,10])
-#
-# plt.plot(x, y)
-# plt.show()
-################################################
-# import matplotlib.pyplot as plt
-# import numpy as np
-#
-# x = np.array([1,7])
-# y = np.array([7,25])
-#
-# plt.plot(x, y, 'o')
-#
-# plt.show()
-################################################
-# import matplotlib.pyplot as plt
-# import numpy as np
-#
-# x = np.array([1,2,8,9])
-# y = np.array([25,10,5,0])
-#
-# plt.plot(x, y)
-#
-# plt.show()
-
-################################################
 import matplotlib.pyplot as plt
-import numpy as np
+import pandas as pd
 
-# x = np.array([1,7,5,15])
-y = np.array([25,27,15,31])
+x = pd.array([15,72,55,28,37])
+y = pd.array([1,2,3,4,5])
 
-plt.plot(y)
+plt.plot(x,y)
 plt.show()
