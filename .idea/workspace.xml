@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_analisys/Matplotlib/w3_schools/a_pyplot.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_analisys/Matplotlib/w3_schools/a_pyplot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_analisys/Matplotlib/w3_schools/b_plotting.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_analisys/Matplotlib/w3_schools/b_plotting.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +83,7 @@
     "Python.a_hello_world.executor": "Run",
     "Python.a_introduction.executor": "Run",
     "Python.a_prime_numbers.executor": "Run",
+    "Python.a_pyplot.executor": "Run",
     "Python.a_stock_control_system.executor": "Run",
     "Python.add_line2d_artist.executor": "Run",
     "Python.and_&_or.executor": "Run",
@@ -91,6 +91,7 @@
     "Python.b_conta_bancaria.executor": "Run",
     "Python.b_getting_started.executor": "Run",
     "Python.b_lambda_.executor": "Run",
+    "Python.b_plotting.executor": "Run",
     "Python.c_animais_pet.executor": "Run",
     "Python.c_data_frames.executor": "Run",
     "Python.c_how_to_initialize_all_the_imported_modules_in_py_games.executor": "Run",
