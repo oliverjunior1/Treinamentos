@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tkinter/PythonTutorial/a_hello_world.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkinter/PythonTutorial/a_hello_world.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_analisys/Matplotlib/w3_schools/a_pyplot.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_analisys/Matplotlib/w3_schools/a_pyplot.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +81,7 @@
     "Python.9_match.executor": "Run",
     "Python.Lists.executor": "Run",
     "Python.a_class_.executor": "Run",
+    "Python.a_hello_world.executor": "Run",
     "Python.a_introduction.executor": "Run",
     "Python.a_prime_numbers.executor": "Run",
     "Python.a_stock_control_system.executor": "Run",
