@@ -4,4 +4,3 @@ try:
 
 except:
     print("You can't divide a number to zero!")
-    
