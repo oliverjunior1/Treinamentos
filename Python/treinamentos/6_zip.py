@@ -1,7 +1,6 @@
-list_1 = ['Name', 'Hobbie', 'Age']
-list_2 = ['Pepe', 'Jogar videogame', 12]
+dates = ['Name', 'Age', 'Hobby']
+dates_answer = ['Pepe', 12, 'Play games']
 
-my_dict = dict(zip(list_1, list_2))
+x = dict(zip(dates, dates_answer))
 
-print(my_dict)
-
+print(x)
