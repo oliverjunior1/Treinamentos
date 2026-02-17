@@ -7,5 +7,5 @@ y = pd.array([10,22,49])
 plt.plot(x, color="red", label='Stalinacio')
 plt.plot(y, color='blue', label='Flávio')
 plt.legend('SF')
-
+plt.text("","","StalinácioXFlávio","")
 plt.show()
