@@ -1,6 +1,6 @@
 while True:
-    option = int(input("Type a nubmer to see the day: "))
-    match option:
+    choice = int(input("Put a number to see the day and 8 to exit: "))
+    match choice:
         case 1:
             print("Sunday")
         case 2:
@@ -18,5 +18,5 @@ while True:
         case 8:
             break
         case _:
-            print("Wrong number")
+            print("Invalid day, put from 1 to 7: ")
 

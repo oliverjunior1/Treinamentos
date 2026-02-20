@@ -1,6 +1,6 @@
-dates = ['Name', 'Age', 'Hobby']
-dates_answer = ['Pepe', 12, 'Play games']
+x = ['name', 'age', 'hobby']
+y = ["Pepe", 12, 'play videogame']
 
-x = dict(zip(dates, dates_answer))
+zipped = dict(zip(x,y))
 
-print(x)
+print(zipped)

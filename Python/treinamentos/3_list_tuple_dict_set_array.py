@@ -9,8 +9,9 @@ print(type(b))
 c = {'a':1, 'b':2}
 print(type(c))
 
-d = {1,2,3}
+d = {1, 2, 3}
 print(type(d))
 
 e = pd.array([1,2,3])
 print(type(e))
+
