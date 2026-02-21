@@ -1,14 +1,14 @@
-'''Create a variable age with the value 20
-Write an if statement that prints "Child" if age is less than 13
-Add an elif that prints "Teenager" if age is less than 18
-Add an else that prints "Adult"'''
+'''Create a variable day with the value 3
+Use a match statement to check the value of day
+Add a case 3 that prints "Wednesday"
+Add a wildcard case _ that prints "Other day"'''
 
-# Create age variable
-age = 25
-# Write if/elif/else
-if age < 13:
-    print("Child")
-elif age <18:
-    print("Teenager")
-else:
-    print('Adult')
+# Create variable day
+day = 3
+# Use match statement
+
+match day:
+    case 3:
+        print('Wednesday')
+    case _:
+        print('Other day')
