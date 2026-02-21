@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="" />
+    <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Python/treinamentos/code_challenge_w3/16_match.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/treinamentos/code_challenge_w3/16_match.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +50,7 @@
     "Python.14_map.executor": "Run",
     "Python.15_if_else.executor": "Run",
     "Python.15_time_delta.executor": "Run",
+    "Python.16_match.executor": "Run",
     "Python.17_iterator.executor": "Run",
     "Python.18_yield.executor": "Run",
     "Python.19_transform_list_to_string.executor": "Run",
