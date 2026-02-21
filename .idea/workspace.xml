@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Python/treinamentos/code_challenge_w3/13_dicts_basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/treinamentos/code_challenge_w3/13_sets_basics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/treinamentos/code_challenge_w3/13_sets_basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/treinamentos/code_challenge_w3/13_sets_basics.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +45,7 @@
     "Python.12_try_except.executor": "Run",
     "Python.12_tuples_basics.executor": "Run",
     "Python.13_args_and_kwargs_with_input.executor": "Run",
+    "Python.13_sets_basics.executor": "Run",
     "Python.14_map.executor": "Run",
     "Python.15_time_delta.executor": "Run",
     "Python.17_iterator.executor": "Run",
