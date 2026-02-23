@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Tkinter/custom_tkinter/1_basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkinter/custom_tkinter/1_basic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkinter/custom_tkinter/2_button.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkinter/custom_tkinter/2_button.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +70,7 @@
     "Python.23_module.executor": "Run",
     "Python.24_dates.executor": "Run",
     "Python.24_txt_in_list.executor": "Run",
+    "Python.2_button.executor": "Run",
     "Python.2_idade_em_meses.executor": "Run",
     "Python.2_lambda_.executor": "Run",
     "Python.2_mega_e_loto.executor": "Run",
