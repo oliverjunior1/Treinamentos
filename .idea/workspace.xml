@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Python/treinamentos/code_challenge_w3/24_dates.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/treinamentos/code_challenge_w3/24_dates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib/7_criar_um_dataframe_e_um_grafico.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +86,7 @@
     "Python.6_duas_listas_em_um_dicionario.executor": "Run",
     "Python.6_markers.executor": "Run",
     "Python.6_zip.executor": "Run",
+    "Python.7_criar_um_dataframe_e_um_grafico.executor": "Run",
     "Python.7_enumerate.executor": "Run",
     "Python.7_simple_if_else.executor": "Run",
     "Python.8_args_and_kwargs.executor": "Run",
