@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Tkinter/custom_tkinter/3_check_box.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkinter/custom_tkinter/1_basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkinter/custom_tkinter/1_basic.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +58,7 @@
     "Python.19_function_basics.executor": "Run",
     "Python.19_transform_list_to_string.executor": "Run",
     "Python.1_args_and_kwargs.executor": "Run",
+    "Python.1_basic.executor": "Run",
     "Python.1_beginning.executor": "Run",
     "Python.1_exercicio_variaveis.executor": "Run",
     "Python.20_open_document_and_edit.executor": "Run",
@@ -76,6 +77,7 @@
     "Python.3_list_tuple_dict_set_array.executor": "Run",
     "Python.3_mega_e_loto.executor": "Run",
     "Python.3_plotting_with_point.executor": "Run",
+    "Python.4_identify_touch.executor": "Run",
     "Python.4_list_comprehension.executor": "Run",
     "Python.4_list_tuple_dict_set_array.executor": "Run",
     "Python.4_plotting_without_xpoint.executor": "Run",
