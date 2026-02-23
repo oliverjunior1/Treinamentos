@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Tkinter/custom_tkinter/create_login_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkinter/custom_tkinter/create_login_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkinter/custom_tkinter/create_login_function.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,11 +194,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Tkinter\custom_tkinter" />
       <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Python\treinamentos\code_challenge_w3" />
       <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Matplotlib" />
       <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Python\treinamentos" />
       <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Pygame" />
-      <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Pandas" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Python\treinamentos" />
