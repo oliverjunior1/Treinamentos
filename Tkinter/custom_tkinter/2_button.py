@@ -1,15 +1,13 @@
-def login():
-    username = 'Geeks'
-    password = '123456'
-    new_window = ctk.CTkTopLevel(app)
+import customtkinter
 
-    new_window.title('New Window')
-    new_window.geometry('350x150')
+def button_callback():
+    print("button pressed")
 
-    if user_entry.get() == username and user_pass.get() == password:
-        tkmb.showinfo(title = "Login Successful",
-        message = "You have logged in Successfully")
-        ctk.CTkLabel(new_window,
-                     text="Geeks is best \"
-                          "for learning ANYTHING !!").pack()
+app = customtkinter.CTk()
+app.title("my app")
+app.geometry("400x150")
 
+button = customtkinter.CTkButton(app, text="my button", command=button_callback)
+button.grid(row=0, column=0, padx=20, pady=20)
+
+app.mainloop()
