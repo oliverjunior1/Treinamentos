@@ -11,5 +11,5 @@ pygame.init()
 
 is_initialized = pygame.get_init()
 
-print('Is pypgame modules initialized:', is_initialized)
+print('Is pygame modules initialized:', is_initialized)
 
