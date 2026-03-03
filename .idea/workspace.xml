@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ada_projeto/projeto_final_machine_larning_I.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ada_projeto/projeto_machine_learning_I/projeto_final_machine_larning_I.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ada_projeto/projeto_machine_learning_I/train.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
