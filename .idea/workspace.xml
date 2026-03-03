@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3549c697-3a76-41e8-85a0-93514c6f95e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ada_projeto/projeto_machine_learning_I/projeto_final_machine_larning_I.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ada_projeto/projeto_machine_learning_I/train.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ada_projeto/projeto_machine_learning_I/projeto_final_machine_larning_I.py" beforeDir="false" afterPath="$PROJECT_DIR$/ada_projeto/projeto_machine_learning_I/projeto_final_machine_larning_I.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,11 +205,11 @@
       <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Pygame" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\ada_projeto\projeto_machine_learning_I" />
+      <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\ada_projeto" />
       <recent name="C:\Users\Olive\PycharmProjects\Treinamentos" />
       <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Python\treinamentos" />
       <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Pygame\Penny_de_Byl\Images" />
-      <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Pygame\Penny_de_Byl\Part I" />
-      <recent name="C:\Users\Olive\PycharmProjects\Treinamentos\Pygame\Penny_de_Byl" />
     </key>
   </component>
   <component name="RunManager">
