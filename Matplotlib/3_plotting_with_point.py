@@ -1,8 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-x = pd.array([1,25,17])
-y = pd.array([100,200,300])
+x = pd.array([15,55,59,54])
 
-plt.plot(y, x, 'o')
+plt.plot(x, 'o')
 plt.show()
