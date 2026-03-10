@@ -35,10 +35,4 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-dados = {'dia':[1,2,3,4,5],
-         'vendas':[100,150,130,170,160]}
-
-x = pd.DataFrame(dados)
-
-plt.plot(x)
-plt.show()
+x = pd.DataFrame({'dia':[1,2,3,4,5],'vendas':[]})
