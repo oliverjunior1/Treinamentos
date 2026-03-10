@@ -1,9 +1,7 @@
-import pandas as pd
 import matplotlib.pyplot as plt
+import pandas as pd
 
-x = pd.array([1,15,3,20,6])
-y = pd.array([5,10,15,20,25])
+x = pd.DataFrame([1,5,7,25,6,24])
 
-plt.plot(y, x, '*')
-
+plt.plot(x, '*')
 plt.show()
