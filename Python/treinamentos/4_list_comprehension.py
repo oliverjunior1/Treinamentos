@@ -1,3 +1,3 @@
-x = [x*5 for x in range(10)]
+x = {a:a**2 for a in range(6)}
 
 print(x)
