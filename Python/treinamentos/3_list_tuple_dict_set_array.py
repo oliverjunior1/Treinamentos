@@ -6,12 +6,11 @@ print(type(a))
 b = (1,2,3)
 print(type(b))
 
-c = {'a':1, 'b':2}
+c = {'a':1, 'b':2, 'c':3}
 print(type(c))
 
-d = {1, 2, 3}
+d = {1,2,3}
 print(type(d))
 
-e = pd.array([1,2,3])
+e = pd.array([1,5,7])
 print(type(e))
-
