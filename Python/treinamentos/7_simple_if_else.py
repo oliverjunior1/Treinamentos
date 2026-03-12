@@ -1,2 +1,3 @@
-age = 17
-print("You're too young") if age<18 else print("You can drive, go away")
+while True:
+    age = int(input("Type you age: "))
+    print("You can drive!") if age > 18 else print("you can't drive!")
