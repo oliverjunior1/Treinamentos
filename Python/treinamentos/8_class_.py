@@ -6,8 +6,9 @@ class Family:
     def __str__(self):
         return f"The name is {self.name} and the age is {self.age} years old."
 
-son = Family("Pepe", 12)
-daughter = Family("Mari", 4)
 
-print(son)
-print(daughter)
+Son = Family("Joao", 12)
+Daughter = Family("Mari", 4)
+
+print(Son)
+print(Daughter)

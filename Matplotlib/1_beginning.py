@@ -1,9 +1,7 @@
 import matplotlib.pyplot as plt
-import numpy as np
+import pandas as pd
 
+x = pd.Series([5,55,128,99])
 
-x = np.array([1,7,5])
-y = np.array([10,20,30])
-
-plt.plot(y, x)
+plt.plot(x)
 plt.show()

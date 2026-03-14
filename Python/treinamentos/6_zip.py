@@ -1,6 +1,6 @@
-x = ['name', 'age', 'hobby']
-y = ["Pepe", 12, 'play videogame']
+x = ['name', 'age', 'hobbie']
+y = ['Joaquim', 33, 'play videogames']
 
-zipped = dict(zip(x,y))
+my_dict = dict(zip(x,y))
 
-print(zipped)
+print(my_dict)

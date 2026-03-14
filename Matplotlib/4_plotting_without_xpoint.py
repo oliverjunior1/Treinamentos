@@ -1,8 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-y = pd.array([1,10,2,9,5,15,8])
+x = pd.array([1,2,3,4])
 
-plt.plot(y)
-
+plt.plot(x)
 plt.show()
