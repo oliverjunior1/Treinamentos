@@ -1,5 +1,5 @@
-names = ['Joaquim', 'Abadiana', 'Ana', 'Maria', 'Eustaquio']
+list_names = ['Joaquim', 'Daniela', 'João','Ivan', 'Amarildo']
 
-big_names = list(filter(lambda x:len(x)>5, names))
+big_names = list(filter(lambda a: len(a)>5, list_names))
 
 print(big_names)
