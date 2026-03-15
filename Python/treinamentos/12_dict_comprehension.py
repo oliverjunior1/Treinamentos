@@ -1,3 +1,3 @@
-x = {x:x*5 for x in range(5)}
+my_dict = {x:x**2 for x in range(1,25)}
 
-print(x)
+print(my_dict)
