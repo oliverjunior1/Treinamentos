@@ -217,3 +217,5 @@ plt.show()
 # - Validação cruzada
 # - Otimização de hiperparâmetros
 # - Análise visual (ROC + Matriz de Confusão)
+
+# Aluno: Joaquim Rodrigues de Oliveira Junior
